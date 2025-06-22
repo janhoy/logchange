@@ -226,14 +226,6 @@ changelog:
       number_of_changes:
         singular: change
         plural: changes
-      security: Security
-      other: Other
-      removed: Removed
-      added: Added
-      deprecated: Deprecated
-      fixed: Fixed
-      dependency_update: Dependency updates
-      changed: Changed
     configuration:
       heading: Configuration changes
       type: Type
